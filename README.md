@@ -1,3 +1,15 @@
+
+# Travel Journal
+
+Simple application to review the concept of passing props between react components.
+
+
+
+## HomePage
+
+!["HomePage"](https://github.com/ZakiyaA/Final_project/blob/main/client/src/docs/HomePage.png?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
