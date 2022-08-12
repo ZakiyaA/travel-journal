@@ -7,7 +7,7 @@ Simple application to review the concept of passing props between react componen
 
 ## HomePage
 
-!["HomePage"](https://github.com/ZakiyaA/Final_project/blob/main/client/src/docs/HomePage.png?raw=true)
+!["HomePage"](https://github.com/ZakiyaA/travel-journal/blob/main/src/images/Screenshot%202022-08-12%20at%2012-41-28%20Travel_Info.png?raw=true)
 
 
 # Getting Started with Create React App
